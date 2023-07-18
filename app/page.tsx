@@ -1,7 +1,6 @@
 import Image from 'next/image'
 import DropdownComponent from './components/button'
 import Todo from './components/Todo'
-import { useState } from 'react'
 
 export default function Home() {
 
